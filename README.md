@@ -7,7 +7,7 @@
    <a  href="http://iit.du.ac.bd" target="_blank">Institute of Information Technology</a> <b> University of Dhaka </b>  </div>
   
 <br><br>
-<img align="right" alt="Coding" width="400"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZmNGFmNzFlZjkwNWI4MmFmZGIyMjRmNjU5ZDAwY2Y5ZjBiNzI1MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZmNGFmNzFlZjkwNWI4MmFmZGIyMjRmNjU5ZDAwY2Y5ZjBiNzI1MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 -   🔭 I’m currently working on <a  href="https://github.com/shazzad5709/EtherCast?fbclid=IwAR1hQrFuklnkS2KTIDk3NGxpPI8mGv_Y7QyCWkus2qCvENlVVJlX2nIuzwc" target="_blank" ><b>EtherCast </b></a> (A Blockchain-based Voting System)
 
