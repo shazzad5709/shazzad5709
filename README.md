@@ -9,7 +9,7 @@
 <br><br>
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjI4YWQwYmY0NjFjZjc5M2EwZWM0NWMwNDU5NjQwMWZiNDI3NDkwMiZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
--   🔭 I’m currently working on <a  href="https://github.com/shazzad5709/EtherCast?fbclid=IwAR1hQrFuklnkS2KTIDk3NGxpPI8mGv_Y7QyCWkus2qCvENlVVJlX2nIuzwc" target="_blank" ><b>EtherCast </b></a> (A Blockchain-based Voting System)
+-   🔭 I’m currently working on <a  href="https://github.com/shazzad5709/ethercast" target="_blank" ><b>EtherCast </b></a> (A Blockchain-based Voting System)
 
 -   🌱 I’m currently learning **Python, Solidity, HTML, CSS, Javascript, PHP, React,**
     **NextJS, NodeJS, C++, C, Java**
