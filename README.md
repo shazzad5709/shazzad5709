@@ -1,10 +1,16 @@
-![Hi, I'm Shazzad Hossain](https://github.com/shazzad5709/shazzad5709/blob/main/hi.svg)
+# < Hi!👋 I'm Shazzad Hossain />
+<h3>
+ Studying Bachelor of Science in Software Engineering, </h3>
+  <div>
+   <a  href="http://iit.du.ac.bd" target="_blank">Institute of Information Technology</a> <b> University of Dhaka </b>  </div>
+
+<!-- ![Hi, I'm Shazzad Hossain](https://github.com/shazzad5709/shazzad5709/blob/main/hi.svg)
 
 <h2 align="center"> Hi, I'm Shazzad Hossain 🇧🇩 </h2>
 <p align="center">
  Studying Bachelor of Science in Software Engineering, <p>
   <div align="center">
-   <a  href="http://iit.du.ac.bd" target="_blank">Institute of Information Technology</a> <b> University of Dhaka </b>  </div>
+   <a  href="http://iit.du.ac.bd" target="_blank">Institute of Information Technology</a> <b> University of Dhaka </b>  </div> -->
   
 <br><br>
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjI4YWQwYmY0NjFjZjc5M2EwZWM0NWMwNDU5NjQwMWZiNDI3NDkwMiZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif">
