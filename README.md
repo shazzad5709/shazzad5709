@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dank+Mono&weight=800&size=26&duration=3000&pause=1500&color=F3892D&background=FFFFFF00&center=true&width=500&lines=%3C+Hi!%F0%9F%91%8B+Shazzad+Hossain+here.+%2F%3E)](https://git.io/typing-svg)
-<br>
+<div>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dank+Mono&weight=800&size=26&duration=3000&pause=1500&color=F3892D&background=FFFFFF00&center=true&repeat=false&width=500&height=40&lines=%3C+Hi!+Shazzad+here!+%2F%3E" alt="Typing SVG" /></a>
+</div>
 <div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dank+Mono&weight=600&duration=3000&pause=1500&color=FB8D2E&background=FFFFFF00&center=true&width=500&height=40&lines=Software+Engineering+Student+at+IIT%2C+DU;Blockchain+Enthusiast+and+Frontend+Developer" alt="Typing SVG" /></a></div>
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjI4YWQwYmY0NjFjZjc5M2EwZWM0NWMwNDU5NjQwMWZiNDI3NDkwMiZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
