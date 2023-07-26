@@ -1,16 +1,6 @@
-# < Hi!👋 I'm Shazzad Hossain />
-<h3>
- Studying Bachelor of Science in Software Engineering, </h3>
-  <div>
-   <a  href="http://iit.du.ac.bd" target="_blank">Institute of Information Technology</a> <b> University of Dhaka </b>  </div>
-
-<!-- ![Hi, I'm Shazzad Hossain](https://github.com/shazzad5709/shazzad5709/blob/main/hi.svg)
-
-<h2 align="center"> Hi, I'm Shazzad Hossain 🇧🇩 </h2>
-<p align="center">
- Studying Bachelor of Science in Software Engineering, <p>
-  <div align="center">
-   <a  href="http://iit.du.ac.bd" target="_blank">Institute of Information Technology</a> <b> University of Dhaka </b>  </div> -->
+<div>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dank+Mono&weight=800&size=26&duration=3000&pause=1500&color=38BDAE&background=FFFFFF00&center=true&width=500&lines=%3C+Hi!%F0%9F%91%8B+Shazzad+Hossain+here.+%2F%3E" alt="Typing SVG" /></a>
+</div>
   
 <br><br>
 <img align="right" alt="Coding" width="400"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjI4YWQwYmY0NjFjZjc5M2EwZWM0NWMwNDU5NjQwMWZiNDI3NDkwMiZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif">
