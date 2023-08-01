@@ -1,7 +1,7 @@
 <div>
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&duration=1&pause=1&color=64FFDA&repeat=false&width=435&lines=Hi%2C+my+name+is" alt="Typing SVG" /></a>
    <br>
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dank+Mono&size=60&duration=1&pause=1&color=8892B0&repeat=false&width=510&height=100&lines=Shazzad+Hossain." alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dank+Mono&size=60&duration=1&pause=1&color=6B9CEF&repeat=false&width=510&height=100&lines=Shazzad+Hossain." alt="Typing SVG" /></a>
    
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dank+Mono&size=18&duration=1&pause=1&color=4CC3A6&multiline=true&repeat=false&width=510&height=120&lines=I'm+a+software+engineering+at+Institute+of+;Information+Technology%2C+University+of+Dhaka.+;I+am+a+blockchain+enthusiast+and+currently;+specializing+in+full-stack+web3+development." alt="Typing SVG" /></a>
 </div>
