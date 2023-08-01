@@ -3,7 +3,7 @@
    <br>
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dank+Mono&size=60&duration=3000&pause=1&color=6B9CEF&vCenter=true&repeat=false&width=520&height=60&lines=Shazzad+Hossain." alt="Typing SVG" /></a>
    
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dank+Mono&size=18&duration=1&pause=1&color=4CC3A6&multiline=true&repeat=false&width=510&height=120&lines=I'm+a+software+engineering+at+Institute+of+;Information+Technology%2C+University+of+Dhaka.+;I+am+a+blockchain+enthusiast+and+currently;+specializing+in+full-stack+web3+development." alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=18&duration=1&pause=1&color=4CC3A6&multiline=true&repeat=false&width=510&height=120&lines=I'm+a+software+engineering+at+Institute+of+;Information+Technology%2C+University+of+Dhaka.+;I+am+a+blockchain+enthusiast+and+currently;+specializing+in+full-stack+web3+development." alt="Typing SVG" /></a>
 </div>
 
 
