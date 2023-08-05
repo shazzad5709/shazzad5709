@@ -1,9 +1,7 @@
-<div>
-   <div align="center" style="background-color: #222; padding: 20px;">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dank+Mono&weight=800&size=32&duration=3000&pause=1500&color=008080&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=500&height=40&lines=%3C+Hi!+Shazzad+here+%E2%98%95%2F%3E" alt="Typing SVG" /></a>
+<div align="center" style="background-color: #222; padding: 20px;">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dank+Mono&weight=800&size=32&duration=3000&pause=1500&color=23B18A&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=500&height=40&lines=%3C+Hi!+Shazzad+here+%E2%98%95%2F%3E" alt="Typing SVG" /></a>
 </div>
-<div  align="center" style="background-color: #222; padding: 20px;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dank+Mono&weight=600&size=26&duration=3000&pause=1500&color=4EA0A1&background=FFFFFF00&center=true&width=800&height=40&lines=Software+Engineering+Student+at+IIT%2C+DU;Blockchain+Enthusiast+and+Frontend+Developer" alt="Typing SVG" /></a></div>
-</div>
+<div  align="center" style="background-color: #222; padding: 20px;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dank+Mono&weight=600&size=26&duration=3000&pause=1500&color=23B18A&background=FFFFFF00&center=true&width=800&height=40&lines=Software+Engineering+Student+at+IIT%2C+DU;Blockchain+Enthusiast+and+Frontend+Developer" alt="Typing SVG" /></a></div>
 
 
 
