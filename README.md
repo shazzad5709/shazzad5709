@@ -1,4 +1,4 @@
-<div align="center" style="background-color: #222; padding: 20px; font-family: "SF Mono Regular">
+<div align="center" style="background-color: #222; padding: 20px; font-family: SF Mono Regular; font-size: large; font-weight: 800">
    Hi! Shazzad Here!
 </div>
 
