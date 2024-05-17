@@ -1,13 +1,12 @@
 # Hi! Shazzad Here!
 
--   🔭 I’m currently working on <a  href="https://github.com/shazzad5709/ethercast" target="_blank" ><b>EtherCast </b></a> (A Blockchain-based Voting System)
+-   🔭 I’m currently working as a Software Engineer Trainee as Brainstation 23.
 
--   🌱 I’m currently learning **Python, Solidity, HTML, CSS, Javascript, PHP, React,**
-    **NextJS, NodeJS, C++, C, Java**
+-   🌱 I’m currently learning **Flutter, Kotlin, Python, Solidity, React, NextJS, NodeJS, Java**
 
 -   👨‍💻 All of my projects are available at <a  href="https://shazzad5709.github.io/" target="_blank" >Shazzad's Portfolio</a>
 
--   💬 Ask me about **Machine Learning, Blockchain, Full-stack Development, Web3 Development**
+-   💬 Ask me about **App Development, Blockchain, Full-stack Development, Web3 Development**
 
 ## Connect with me
 
