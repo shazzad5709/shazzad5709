@@ -1,8 +1,8 @@
 # Hi! Shazzad Here!
 
--   🔭 I’m currently working as a Software Engineer Trainee as Brainstation 23.
+-   🔭 I’m currently working as a **Software Engineer Trainee** at **Brainstation 23**.
 
--   🌱 I’m currently learning **Flutter, Kotlin, Python, Solidity, React, NextJS, NodeJS, Java**
+-   🌱 I’m currently learning **Flutter, Kotlin, Python, Solidity, React, NextJS, NodeJS**
 
 -   👨‍💻 All of my projects are available at <a  href="https://shazzad5709.github.io/" target="_blank" >Shazzad's Portfolio</a>
 
