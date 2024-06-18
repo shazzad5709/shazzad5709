@@ -4,9 +4,9 @@
 
 -   🌱 I’m currently learning **Flutter, Kotlin, Python, Solidity, React, NextJS, NodeJS**
 
--   👨‍💻 All of my projects are available at <a  href="https://shazzad5709.github.io/" target="_blank" >Shazzad's Portfolio</a>
+-   👨‍💻 All of my projects are available at <a  href="https://shazzad.vercel.app/" target="_blank" >Shazzad's Portfolio</a>
 
--   💬 Ask me about **App Development, Blockchain, Full-stack Development, Web3 Development**
+-   💬 Ask me about **App Development, Full-stack Development, Blockchain and Web3 Development******
 
 ## Connect with me
 
